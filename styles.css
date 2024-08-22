@@ -1,12 +1,10 @@
-/* Your CSS code here. */
-/* Style for the Header */
+
 header {
     background-color: #e5e5e5;
     padding: 20px;
     text-align: center;
 }
 
-/* Style for the Nav Bar */
 nav {
     background-color: black;
     padding: 10px;
@@ -41,14 +39,12 @@ main {
     margin: 20px 0;
 }
 
-/* Style for the Sidebar */
 aside {
     background-color: lightgray;
     padding: 20px;
     margin: 20px 0;
 }
 
-/* Style for the Footer */
 footer {
     background-color: #e5e5e5;
     padding: 20px;
